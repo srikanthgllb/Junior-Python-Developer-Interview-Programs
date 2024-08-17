@@ -1,0 +1,1 @@
+mylist=["geeks","for","geeks"]
